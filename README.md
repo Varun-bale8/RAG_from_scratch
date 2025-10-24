@@ -30,10 +30,10 @@ Company Policy Manual:
 This serves as the private dataset our RAG system learns from.
 
 4)🧩 Tools & Libraries Used: 
-transformers-                       To load and use the LLM for text generation
-sentence-transformers -                To create text embeddings
-faiss-cpu	Vector database -            for semantic search
-langchain	-                           For smart text chunking/splitting
+transformers-                       To load and use the LLM for text generation, 
+sentence-transformers -                To create text embeddings, 
+faiss-cpu	Vector database -            for semantic search, 
+langchain	-                           For smart text chunking/splitting and 
 numpy	-                               For numerical operations
 
 5)🧠 Key Learnings
